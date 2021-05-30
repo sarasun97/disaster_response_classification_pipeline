@@ -70,9 +70,9 @@ The dataset contains more than 26248 messages drawn from events including the 20
 3. Go to http://0.0.0.0:3001/
 
 ## 5. Screenshot
-![the home page of the web app](https://github.com/sarasun97/Disaster-response-classification-pipeline-project/tree/main/screenshot/screenshot1.png)\
-![classification example 1](https://github.com/sarasun97/Disaster-response-classification-pipeline-project/tree/main/screenshot/screenshot2.png)\
-![classification example 2](https://github.com/sarasun97/Disaster-response-classification-pipeline-project/tree/main/screenshot/screenshot3.png)
+![the home page of the web app](https://github.com/sarasun97/disaster_response_classification_pipeline_project/tree/main/screenshot/screenshot1.png)\
+![classification example 1](https://github.com/sarasun97/disaster_response_classification_pipeline_project/tree/main/screenshot/screenshot2.png)\
+![classification example 2](https://github.com/sarasun97/disaster_response_classification_pipeline_project/tree/main/screenshot/screenshot3.png)
 
 ## 6. Discussion
 This dataset is imbalanced. Some labels like tools have few examples, child_alone category had 0 instances. The imbalance will definitely affect the performance of the model, especially recall(TP/(TP+FN)) and precision(TP(TP+FP). 
